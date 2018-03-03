@@ -1,2 +1,2 @@
 # ncl_scripts
-Common NCL scripts
+NCL scripts for WRF rainfall processing.
